@@ -20,7 +20,9 @@
 **Play almost any song**
 - Search by song, artist or album and press play. No other music account needed.
 - Clear sound: Cymora picks the best audio available for each song.
-- The next song is ready before the current one ends, so there are no gaps.
+- Songs you have played before start straight away, and Cymora gets the next few songs in
+  your queue ready while you listen, so skipping ahead is nearly instant. A brand new song
+  takes a few seconds the first time.
 - If a song sounds wrong (live version, cover, wrong song), choose a better one with
   "Fix audio source".
 
@@ -34,7 +36,7 @@
 **Your library**
 - Playlists: import a list of songs, add a cover, reorder, sort, search inside and export.
 - Liked Songs, with Play and Shuffle.
-- Share a playlist with a friend using a short code like `CYMORA-7K92`.
+- Share a playlist with a friend using a short code like `CYMORA-7K92` (works for 14 days).
 - Tell Cymora you're not interested in a song or an artist and it stops suggesting them.
 - Your playlists, likes and hidden songs are saved to your account. Install Cymora on a
   new PC, sign in, and they come back.
@@ -43,7 +45,8 @@
 - Lyrics that move with the song, with the current line lit up. Click a line to jump to it.
 - A small lyrics window that floats over other apps, for singing along while you work or game.
 - Translate lyrics to English.
-- Lyrics a little early or late? Nudge them until they match.
+- Lyrics a little early or late? Nudge them until they match. For some songs the timing is
+  already set for you.
 
 **Listening controls**
 - Shuffle that plays every song once before repeating, and avoids the same artist twice
@@ -79,10 +82,22 @@
    wrong. Click **More info**, then **Run anyway**.
 5. Choose where to install (the suggested folder is fine) and click **Install**.
 6. Open Cymora from the desktop shortcut or the Start menu.
-7. Sign in with Google, or create an account with your email.
+7. Sign in (see "Signing in" below).
 8. Search for a song and press play.
 
 No admin password is needed. Cymora installs only for your Windows user.
+
+### Signing in
+- **Sign in with Google** opens your normal browser (Edge or Chrome). Pick the account you
+  already use there; nothing to type.
+- **Email and password:** choose "Create one" to make an account, or sign in with the one
+  you have.
+- **Email me a sign-in link:** no password needed. Cymora emails you a link; open the email
+  and press the link. A page opens with a **Copy sign-in link** button. Press it, go back
+  to Cymora, paste the link into the box and press **Sign In**. The link works once and
+  expires after a short time, so use it soon and don't share it.
+- **Add or change a password:** open your name at the top right, choose **Settings**, then
+  **Set password** or **Change password**. Google sign-in keeps working.
 
 ### Updating
 Nothing to do. Cymora checks for updates by itself and asks you to restart when a new
@@ -111,7 +126,8 @@ Windows Settings, then **Apps**, then **Installed apps**, find **Cymora**, then
 
 - **On your account:** your listening history (for Insights), play counts (for your mix),
   liked songs, hidden songs and artists, and playlists. Only you can read them.
-- **On your PC only:** cached lyrics, cached song links and your settings.
+- **On your PC only:** cached lyrics, cached song links, your lyrics timing adjustments and
+  your settings.
 - Listening history is kept per calendar year. Last year's stays available through
   January so you can look back, then it is cleared on 1 February. Your play counts and
   library are never cleared.
@@ -129,6 +145,18 @@ menu and choose **Fix audio source** to pick another version. If every song fail
 **The lyrics are wrong or out of time.**
 Open the lyrics view. In the **Source** tab try **Change source** or **Search**. In the
 **Timing** tab use **-0.1s** / **+0.1s** until the lines match the singing.
+
+**Google sign-in says "access blocked", or opens a pop-up window.**
+Update to the latest version, then try again. If it still happens, use the email link or
+email and password instead.
+
+**The sign-in page says it needs the link.**
+Open the link from inside the email itself (not a saved or copied page), then press
+**Copy sign-in link**.
+
+**I forgot my password.**
+Choose **Email me a sign-in link** on the sign-in screen, or sign in with Google and set a
+new password in **Settings**.
 
 **Windows says the app is from an unknown publisher.**
 That's expected for independent apps. Click **More info** and **Run anyway**.
