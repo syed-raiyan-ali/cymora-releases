@@ -24,7 +24,7 @@
   your queue ready while you listen, so skipping ahead is nearly instant. A brand new song
   takes a few seconds the first time.
 - If a song sounds wrong (live version, cover, wrong song), choose a better one with
-  "Fix audio source".
+  "Fix audio source". Each choice has a 30-second preview so you can check it first.
 
 **A Home page that knows you**
 - **Pick up where you left off:** continue the last song from the same spot, inside the
@@ -34,7 +34,11 @@
   "New mix" any time.
 
 **Your library**
-- Playlists: import a list of songs, add a cover, reorder, sort, search inside and export.
+- **Bring your playlists over from YouTube Music:** paste the playlist link and every song
+  comes in ready to play. The playlist needs to be public or unlisted.
+- **Coming from Spotify?** Turn your playlist into a text file with Chosic's free playlist
+  to text converter, then import the file. You can also paste a list of songs.
+- Playlists: add a cover, reorder, sort and search inside.
 - Liked Songs, with Play and Shuffle.
 - Share a playlist with a friend using a short code like `CYMORA-7K92` (works for 14 days).
 - Tell Cymora you're not interested in a song or an artist and it stops suggesting them.
@@ -52,6 +56,8 @@
 - Shuffle that plays every song once before repeating, and avoids the same artist twice
   in a row.
 - Smart Shuffle for playlists: mixes in songs you might like.
+- Go back through every song you've played this session, not just the last one. Press
+  Next to walk forward through them again.
 - Repeat, sleep timer, and choose headphones or speakers from inside the app.
 - Your shuffle and repeat settings stay the way you left them.
 - Keyboard media keys work even when Cymora is in the background.
@@ -59,6 +65,12 @@
 **Insights**
 - How long you've listened, how many songs, your longest session, your daily average,
   your top songs and artists, and the hours you listen most.
+
+**Light and tidy**
+- Easy on your PC: Cymora uses very little graphics power and battery, and stops drawing
+  when it's minimised or hidden behind other windows.
+- A clean window with no title strip. Drag the top bar to move it.
+- Opens where you left it: same size, same spot, same screen.
 
 **Always up to date**
 - Cymora updates itself. When a new version is ready you'll see "Restart now".
@@ -166,6 +178,13 @@ Not yet. Cymora is Windows-only for now.
 
 **Does Cymora cost anything?**
 No.
+
+**My YouTube Music playlist won't import.**
+Make sure the playlist is public or unlisted (in YouTube Music, open the playlist, choose
+edit, and change who can see it), then copy the link from **Share** and try again.
+
+**How do I import a Spotify playlist?**
+In **Import playlist**, choose **Text file** and follow the Chosic steps shown there.
 
 **How do I report a problem?**
 In the lyrics view, open the **Report** tab. Reports go straight to the developer.
